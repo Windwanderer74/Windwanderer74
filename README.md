@@ -1,17 +1,19 @@
-# NOVAFORGE · NovaSpace
+# Nova Space · Nextcloud & KI
 
-**Technik entwickeln. Arbeit nachvollziehbar organisieren. KI gezielt einbinden.**
+**Nextcloud mit KI verbinden. Arbeit nachvollziehbar organisieren.**
 
-Unter dem Arbeitsnamen NOVAFORGE entsteht eine technische und organisatorische Grundlage für praktische digitale Arbeit. NovaSpace bildet dafür die Arbeitsumgebung: Dateien, Aufgaben, Planung und Zusammenarbeit kommen dort zusammen.
+Unter dem Namen **Nova Space** entstehen Werkzeuge für praktische digitale Arbeit mit Nextcloud und KI.
 
-Ein Schwerpunkt ist der **NovaSpace Connector**. Er macht unterstützte Nextcloud-Funktionen für angebundene KI-Programme zugänglich. Welche Bereiche eine persönliche Verbindung lesen oder bearbeiten darf, wird ausdrücklich festgelegt.
+Ein Schwerpunkt ist der **Nextcloud Connector von Nova Space**. Er macht unterstützte Funktionen einer angebundenen Nextcloud-Installation für KI-Programme zugänglich: Dateien, Deck, Kalender, Aufgaben und weitere Nextcloud-Bereiche. Welche Bereiche eine persönliche Verbindung lesen oder bearbeiten darf, wird ausdrücklich festgelegt.
 
 Die Entwicklung folgt einem einfachen Grundsatz: **Erst denken, dann handeln.** Ausgangslage klären, den nächsten tragfähigen Schritt bestimmen, das Ergebnis prüfen und nachvollziehbar dokumentieren.
 
-→ [NovaSpace Connector: Projektvorstellung und Entwicklungsstand](https://github.com/Windwanderer74/novaspace-connector)
+→ [Nextcloud Connector von Nova Space: Projektvorstellung und Entwicklungsstand](https://github.com/Windwanderer74/novaspace-connector)
 
-→ [NovaSpace im Web](https://novaspace.info/)
+→ [Nova Space im Web](https://novaspace.info/)
+
+Die Entwicklung ist Teil des NOVAFORGE-Projekts.
 
 ---
 
-**English:** NOVAFORGE brings together practical technical development and structured work. NovaSpace is the working environment; NovaSpace Connector adds permission-controlled AI access to supported Nextcloud functions.
+**English:** Nova Space develops practical tools for working with Nextcloud and AI. The Nextcloud Connector by Nova Space adds permission-controlled AI access to supported Nextcloud functions, including files, Deck, calendars and tasks. Development takes place within the NOVAFORGE project.
