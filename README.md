@@ -10,7 +10,7 @@ Die Entwicklung folgt einem einfachen Grundsatz: **Erst denken, dann handeln.** 
 
 → [Nextcloud Connector von Nova Space: Projektvorstellung und Entwicklungsstand](https://github.com/Windwanderer74/novaspace-connector)
 
-→ [Nova Space im Web]([https://novaspace.info/](https://next2.novaspace.info/))
+→ [Nova Space im Web](https://next2.novaspace.info/)
 
 Die Entwicklung ist Teil des NOVAFORGE-Projekts.
 
