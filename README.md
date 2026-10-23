@@ -12,8 +12,8 @@ Die Entwicklung folgt einem einfachen Grundsatz: **Erst denken, dann handeln.** 
 
 → [Nova Space im Web](https://next2.novaspace.info/)
 
-Die Entwicklung ist Teil des NOVAFORGE-Projekts.
+Die Entwicklung ist Teil des Nova-Space-Projekts.
 
 ---
 
-**English:** Nova Space develops practical tools for working with Nextcloud and AI. The Nextcloud Connector by Nova Space adds permission-controlled AI access to supported Nextcloud functions, including files, Deck, calendars and tasks. Development takes place within the NOVAFORGE project.
+**English:** Nova Space develops practical tools for working with Nextcloud and AI. The Nextcloud Connector by Nova Space adds permission-controlled AI access to supported Nextcloud functions, including files, Deck, calendars and tasks. Development takes place within the Nova Space project.
